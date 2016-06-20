@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.niyati.com	TRUE	/	FALSE	1999999999	PHPSESSID	12b5b812318a7ca63a30c70675919b85
+.google.com	TRUE	/	FALSE	1999999999	NID	80=ggnmyDG0A-NyfYBVJxJmso5GG3Q4x8bItwJjs1SveH1SakBpGLR5FZLuqzieiHcCqLA_O6Y1L_rgFQ9iWZCuvF9P432I7EHdzT65H1qqmTPFM7OMYVzIeWb0MjIm8C3S
+
