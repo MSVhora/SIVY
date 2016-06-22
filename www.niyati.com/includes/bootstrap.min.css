@@ -1497,7 +1497,7 @@ a.view-casestudy:hover { border : #ddd solid 1px; }
 .mobility-sec { margin: 0 auto 25px auto; background: #fff; text-align: center; width: 94%; }
 .mobility-col { padding : 20px 18%; color : #0087c3; }
 .mobility-col p { height: 60px; }
-.navbar-brand, .navbar-nav > li > a { color : #fff; }
+.navbar-brand, .navbar-nav > li > a { color :rgb(112,53,115);; }
 .navbar-fixed-bottom, .navbar-fixed-top, .navbar-static-top { border-radius : 0; }
 .ourwork-sec { padding : 30px 0 0px 0; }
 .ourwork-sec h1 { font-size : 50px; line-height : 75px; padding : 5px 0; text-align : center; }

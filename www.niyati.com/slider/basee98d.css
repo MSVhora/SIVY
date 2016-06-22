@@ -199,7 +199,7 @@
 .text-left { text-align: left;}
 ul.list-inline { list-style: none;}
 ul.list-inline li { margin: 0px 20px; display: inline-block;}
-h1,h3.white,h4.white { text-transform: uppercase;}
+h3.white,h4.white { text-transform: uppercase;}
 .member-name	{ font-family: "Corporative Regular",Arial,Tahoma,sans-serif;}
 h3.white { font-family: "Fueled Bold",Arial,Tahoma,sans-serif; color: #ffffff;}
 .eg-henryharrison-element-1 { font-family: "Corporative Regular",Arial,Tahoma,sans-serif !important; font-size: 22px !important; color: #ffffff;}
@@ -651,4 +651,10 @@ ul.nav-menu-srm li a	{ padding: 0px 15px;}
 .what-we-do-block { padding: 0px 0px 20px !important; text-align: center;}
 .btn-what-we-do { margin-top: 20px;}
 .kal-block { margin-top: 20px;}
+}
+
+.mfn-main-slider img
+{
+ opacity: 0.5;
+ filter: alpha(opacity=50);
 }
