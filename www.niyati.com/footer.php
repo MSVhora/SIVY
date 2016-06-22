@@ -14,7 +14,7 @@
                   +91-75758 08585 </span> <a href="skype:sivy?add"><img src="images/icon-skype.png"
 
                     alt="" height="32" width="32">sivy</a></div>
-              <div data-wow-delay="0.2s" class="red-button wow fadeIn"><a href="general-enquiries.html"
+              <div data-wow-delay="0.2s" class="red-button wow fadeIn"><a href="general-enquiries.php"
 
                   class="hvr-sweep-to-bottom">Request a free quote</a></div>
             </div>
@@ -66,7 +66,7 @@
                   href="https://www.instagram.com/sivy/" target="_blank" class="pinterest"></a></div>
               <div data-wow-delay="2.0s" class="col-xs-2 col-md-4 col-lg-4 wow fadeIn"><a
 
-                  href="blog/index.html" target="_blank" class="blog"></a>
+                  href="blog/index.php" target="_blank" class="blog"></a>
               </div>
             </div>
           </div>
